@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.text{
+    width: 400px;
+    background-color: blue;
+    text-align: center;
+   padding: 26px 0;
+   border-radius: 20px;
+   margin: 31px auto;
+}
+body{
+    background-color: #70FF7E;
+}
+.text>h2{
+font-size: 48px;
+color: white;
+font-family: Inter;
+}
+.ranglar>center>div{
+    width: 150px;
+    height: 150px; 
+    border-radius: 50%;
+}
+.ranglar{
+    margin: 0 auto;
+    background-color: black;
+    width: 451px;
+    padding: 69px o;
+}
+.sariq{
+    margin: 20px 0;
+    background-color: yellow;
+    border: 5px solid #70FF7E;
+  }
+.qizil{
+  background-color: red;
+}
+
+.yashil{
+    background-color:rgb(5 254 5);
+}
